@@ -1,1 +1,52 @@
+# 📁 Scripts
+This repository contains a collection of scripts gathered and created by me for various purposes.
 
+## 🧠 About
+Over the years, I've worked with all sorts of `technologies` and situations where I needed fast and efficient `scripts`. Instead of keeping them scattered across folders, I gathered them into a `repo` to make them easier to access, reuse, and **improve**.
+This repo is useful for:
+- developers
+- system administrators
+- scripting enthusiasts
+- anyone who wants to `automate`  repetitive tasks
+
+## 📂 What do you find here?
+You will find scripts written in several languages, including:
+- CPP
+- Python
+- That's it for a while)
+
+## 🎱 How is it used?
+Clone the repo
+```bash
+git clone https://github.com/ValyMnDul/Scripts.git
+```
+Go to the scripts folder
+```bash
+cd Scripts/Scripts
+```
+Choose programming language
+```bash
+cd <language>   #Replace <language> with the language of your choice
+```
+Choose your script and use it!  
+
+If that doesn't work, try this:
+```bash
+chmod +x <script>   #Replace <script> with the full name of the chosen script.EX:file.sh
+```
+This will give the script `permission` to be executed.
+
+## ☕ How do I run each script based on the extension?
+**NOTE:** Some commands may be slightly different on `Windows`.
+- CPP (C++)
+```bash
+g++ -o program <script.cpp>   #compiling
+./program   #executing
+```
+- Python
+```bash
+python3 <script.py>
+```
+
+## 🛠️ Contributions
+The repo is under **continuous development**. If you have suggestions, ideas or want to contribute, you are welcome! Either through `pull requests` or just by opening an `issue`.
