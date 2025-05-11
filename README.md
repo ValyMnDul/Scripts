@@ -13,6 +13,7 @@ This repo is useful for:
 You will find scripts written in several languages, including:
 - CPP
 - Python
+- JS
 - That's it for a while)
 
 ## 🎱 How is it used?
@@ -30,11 +31,6 @@ cd <language>   #Replace <language> with the language of your choice
 ```
 Choose your script and use it!  
 
-If that doesn't work, try this:
-```bash
-chmod +x <script>   #Replace <script> with the full name of the chosen script.EX:file.sh
-```
-This will give the script `permission` to be executed.
 
 ## ☕ How do I run each script based on the extension?
 **NOTE:** Some commands may be slightly different on `Windows`.
@@ -47,6 +43,16 @@ g++ -o program <script.cpp>   #compiling
 ```bash
 python3 <script.py>
 ```
+- JS
+  - If it works with `node`:
+  ```bash
+  node <script.js>
+  ```
+
+  - If it works with the `browser` just add it to the `index`:
+  ```html
+  <script src="<script.js>"></script>  <!-- Replace "<script.js>" with the path to script.js -->
+  ```
 
 ## 🛠️ Contributions
 The repo is under **continuous development**. If you have suggestions, ideas or want to contribute, you are welcome! Either through `pull requests` or just by opening an `issue`.
