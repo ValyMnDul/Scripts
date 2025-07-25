@@ -54,5 +54,8 @@ python3 <script.py>
   <script src="<script.js>"></script>  <!-- Replace "<script.js>" with the path to script.js -->
   ```
 
-## 🛠️ Contributions
-The repo is under **continuous development**. If you have suggestions, ideas or want to contribute, you are welcome! Either through `pull requests` or just by opening an `issue`.
+## 📤 Contributing
+
+Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
+
+---
