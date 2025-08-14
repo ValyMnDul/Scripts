@@ -29,7 +29,7 @@ Choose programming language
 ```bash
 cd <language>   #Replace <language> with the language of your choice
 ```
-Choose your script and use it!  
+Choose your script and use it!   
 
 
 ## ☕ How do I run each script based on the extension?
