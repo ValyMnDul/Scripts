@@ -17,4 +17,4 @@ They should be used **consciously and responsibly**, with awareness of their pot
 
  We appreciate your help in keeping this repository safe and secure!  
 
-** Thank you!**
+**Thank you!**
