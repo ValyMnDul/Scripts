@@ -1,20 +1,11 @@
 # Scripts
 This repository contains a collection of scripts gathered and created by me for various purposes.
 
-## About
-Over the years, I've worked with all sorts of `technologies` and situations where I needed fast and efficient `scripts`. Instead of keeping them scattered across folders, I gathered them into a `repo` to make them easier to access, reuse, and **improve**.
-This repo is useful for:
-- developers
-- system administrators
-- scripting enthusiasts
-- anyone who wants to `automate`  repetitive tasks
-
 ## What do you find here?
 You will find scripts written in several languages, including:
 - CPP
 - Python
 - JS
-- That's it for a while)
 
 ## How is it used?
 Clone the repo
@@ -58,4 +49,6 @@ python3 <script.py>
 
 Pull requests are welcome! If you'd like to contribute or suggest features, feel free to open an issue or fork the repo.
 
----
+## Open Source
+
+This project is licensed under the [MIT License](LICENSE.md)
